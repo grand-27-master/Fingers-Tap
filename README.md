@@ -50,4 +50,4 @@ This project demonstrates a **real-time multi-finger tap detection system** usin
 
 ---
 
-<a href="img.png"></a>
+<img src="img.png"></img>
